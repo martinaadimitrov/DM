@@ -1134,13 +1134,12 @@ body {
     top: 1917px;
     font-size: 16px;
     color: #f8f1a8;
-    
-    border: 3px solid #f8f1a8;
+
+    border: 2px solid #f8f1a8;
     box-sizing: border-box;
     border-radius: 0px 10px 10px 10px;
-    f
   }
-  
+
   .buttonproject1 a:hover {
     color: #f8f1a8;
   }
@@ -1181,6 +1180,24 @@ body {
     font-size: 16px;
   }
 
+  .buttonproject2:hover {
+    position: absolute;
+    width: 140px;
+    height: 40px;
+    left: 214px;
+    top: 2386px;
+    font-size: 16px;
+    color: #f8f1a8;
+
+    border: 2px solid #f8f1a8;
+    box-sizing: border-box;
+    border-radius: 0px 10px 10px 10px;
+  }
+
+  .buttonproject2 a:hover {
+    color: #f8f1a8;
+  }
+
   .naslovprekt3 {
     position: absolute;
     height: 30px;
@@ -1215,6 +1232,24 @@ body {
     top: 2878px;
     border-radius: 0px 10px 10px 10px;
     font-size: 16px;
+  }
+
+  .buttonproject3:hover {
+    position: absolute;
+    width: 140px;
+    height: 40px;
+    left: 214px;
+    top: 2878px;
+    font-size: 16px;
+    color: #f8f1a8;
+
+    border: 2px solid #f8f1a8;
+    box-sizing: border-box;
+    border-radius: 0px 10px 10px 10px;
+  }
+
+  .buttonproject3 a:hover {
+    color: #f8f1a8;
   }
 
   .naslovprekt4 {
@@ -1252,6 +1287,23 @@ body {
     font-size: 16px;
   }
 
+  .buttonproject4:hover {
+    position: absolute;
+    width: 140px;
+    height: 40px;
+    left: 214px;
+    top: 3339px;
+    font-size: 16px;
+    color: #f8f1a8;
+
+    border: 2px solid #f8f1a8;
+    box-sizing: border-box;
+    border-radius: 0px 10px 10px 10px;
+  }
+
+  .buttonproject4 a:hover {
+    color: #f8f1a8;
+  }
   .naslovprekt5 {
     position: absolute;
 
@@ -1288,6 +1340,24 @@ body {
     top: 3794px;
     border-radius: 0px 10px 10px 10px;
     font-size: 16px;
+  }
+
+  .buttonproject5:hover {
+    position: absolute;
+    width: 140px;
+    height: 40px;
+    left: 214px;
+    top: 3794px;
+    font-size: 16px;
+    color: #f8f1a8;
+
+    border: 2px solid #f8f1a8;
+    box-sizing: border-box;
+    border-radius: 0px 10px 10px 10px;
+  }
+
+  .buttonproject5 a:hover {
+    color: #f8f1a8;
   }
   .covercontact {
     position: absolute;
