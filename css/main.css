@@ -94,16 +94,13 @@ body {
   left: 901px;
   top: 106.03px;
 }
-
 .imgsenka {
   position: absolute;
   width: 421.52px;
   height: 751.38px;
   left: 901px;
   top: 106.03px;
-  background: url(Layer 0.png);
-  filter: blur(143px);
-  transform: matrix(-1, 0, 0, 1, 0, 0);
+  filter: blur(160px);
 }
 
 .naslovwhatido {
