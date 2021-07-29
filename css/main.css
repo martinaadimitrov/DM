@@ -1013,7 +1013,9 @@ body {
   .buttondownload button:hover {
     color: #f8f1a8;
   }
-
+  .buttondownload:hover {
+    color: #f8f1a8;
+  }
   .hero button:hover {
     position: absolute;
     width: 110px;
