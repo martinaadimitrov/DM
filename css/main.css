@@ -101,8 +101,9 @@ body {
   height: 751.38px;
   left: 901px;
   top: 106.03px;
-
-  filter: blur(100px);
+  background: url(Layer 0.png);
+  filter: blur(143px);
+  transform: matrix(-1, 0, 0, 1, 0, 0);
 }
 
 .naslovwhatido {
