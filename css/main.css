@@ -1048,7 +1048,7 @@ body {
   }
   .aboutmetext {
     position: absolute;
-    width: 131px;
+    /* width: 131px; */
     height: 31px;
     left: 122px;
     top: 875px;
@@ -1371,14 +1371,14 @@ body {
   }
   .contactme {
     position: absolute;
-    width: 145px;
+    /* width: 145px; */
     height: 31px;
     left: 113px;
     top: 3914px;
     font-weight: 800;
     font-size: 26px;
     line-height: 120%;
-    text-align: center;
+    /* text-align: center; */
     letter-spacing: 0.02em;
   }
   .name {
