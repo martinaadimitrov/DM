@@ -319,7 +319,7 @@ body {
   position: absolute;
   width: 199px;
   height: 52px;
-  left: 814px;
+  left: 810px;
   top: 3281px;
   border: 1px solid #faf4e6;
   box-sizing: border-box;
@@ -336,7 +336,7 @@ body {
   position: absolute;
   width: 199px;
   height: 52px;
-  left: 814px;
+  left: 810px;
   top: 3281px;
   border: 3px solid #f8f1a8;
   box-sizing: border-box;
@@ -356,7 +356,7 @@ body {
   position: absolute;
   width: 500px;
   height: 54px;
-  left: 814px;
+  left: 810px;
   top: 3002px;
   font-family: Nunito Sans;
   font-style: normal;
@@ -370,7 +370,7 @@ body {
   position: absolute;
   width: 464px;
   height: 108px;
-  left: 814px;
+  left: 810px;
   top: 3113px;
   font-family: Nunito;
   font-style: normal;
@@ -384,7 +384,7 @@ body {
   position: absolute;
   width: 580.71px;
   height: 364px;
-  left: 746px;
+  left: 810px;
   top: 3510px;
 }
 
@@ -463,7 +463,7 @@ body {
   position: absolute;
   width: 302px;
   height: 54px;
-  left: 812px;
+  left: 810px;
   top: 4032px;
   font-family: Nunito Sans;
   font-style: normal;
@@ -478,14 +478,14 @@ body {
   width: 693.33px;
   height: 431px;
   left: 96px;
-  top: 4032px;
+  top: 4000px;
 }
 
 .paragrafprekt3 {
   position: absolute;
   width: 464px;
   height: 108px;
-  left: 812px;
+  left: 810px;
   top: 4143px;
   font-family: Nunito;
   font-style: normal;
@@ -507,7 +507,7 @@ body {
   position: absolute;
   width: 199px;
   height: 52px;
-  left: 812px;
+  left: 810px;
   top: 4311px;
 
   border: 1px solid #faf4e6;
@@ -531,7 +531,7 @@ body {
   position: absolute;
   width: 199px;
   height: 52px;
-  left: 812px;
+  left: 810px;
   top: 4311px;
 
   border: 3px solid #f8f1a8;
@@ -615,8 +615,8 @@ body {
   position: absolute;
   width: 620.42px;
   height: 373.63px;
-  left: 681px;
-  top: 4631px;
+  left: 810px;
+  top: 4624px;
 }
 
 .imgprekt5 {
@@ -624,7 +624,7 @@ body {
   width: 598.46px;
   height: 349px;
   left: 132px;
-  top: 5145px;
+  top: 5178px;
 }
 
 .buttonproject5 {
@@ -834,9 +834,9 @@ body {
 .podatocikocka {
   position: absolute;
   width: 500px;
-  height: 400px;
+  height: 270px;
   left: 830px;
-  top: 5834px;
+  top: 5966px;
 
   background: #280e63;
   border-radius: 30px 0px 0px 30px;
@@ -846,8 +846,8 @@ body {
   position: absolute;
   width: 85px;
   height: 29px;
-  left: 915px;
-  top: 5894px;
+  left: 909px;
+  top: 6027px;
 
   font-family: Nunito Sans;
   font-style: normal;
@@ -865,8 +865,8 @@ body {
   position: absolute;
   width: 330px;
   height: 24px;
-  left: 915px;
-  top: 5943px;
+  left: 909px;
+  top: 6076px;
 
   font-family: Nunito Sans;
   font-style: normal;
@@ -877,8 +877,7 @@ body {
 
   color: #f2d0f8;
 }
-
-.phone {
+/* .phone {
   position: absolute;
   width: 96px;
   height: 29px;
@@ -905,7 +904,7 @@ body {
   font-size: 20px;
   line-height: 120%;
   color: #f2d0f8;
-}
+} */
 
 .fb {
   position: absolute;
