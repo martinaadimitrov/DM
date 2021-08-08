@@ -806,7 +806,8 @@ body {
   transform: matrix(1, 0, 0, -1, 0, 0);
 }
 
-.buttonsend {
+.buttonsend
+ {
   position: absolute;
   width: 486px;
   height: 49px;
@@ -825,8 +826,6 @@ body {
   font-size: 20px;
   line-height: 120%;
   /* identical to box height, or 24px */
-
-  color: #f2d0f8;
 
   color: #f2d0f8;
 }
